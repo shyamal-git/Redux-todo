@@ -1,4 +1,6 @@
-# React Redux Product Todo Admin
+# Redux-todo
+
+## React Redux Product Todo Admin
 
 This project is a React + Redux assignment implementation with authentication, protected routes, a product table, and CRUD operations using DummyJSON APIs.
 
